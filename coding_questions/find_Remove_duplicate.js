@@ -25,8 +25,6 @@ for(let key in dict){
 // console.log(dict)
 
 
-
-
 // Remove Duplicate
 const removeDuplicate = arr.filter((val, index) => {
     return arr.indexOf(val) === index

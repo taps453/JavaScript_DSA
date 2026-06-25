@@ -14,4 +14,4 @@ let text = ""
 for(let key in dict){
     text = text + key + dict[key]
 }
-console.log(text)
+console.log(text) // a2b3c2
